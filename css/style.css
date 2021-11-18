@@ -1,5 +1,9 @@
 @charset "urf-8";
 
+htlm {
+  height: 100%;
+ }
+
 body {
  font: 14px Arial, sans-sarif;
  color: #333;
